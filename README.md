@@ -1,6 +1,6 @@
 # Assignment 
 
-This is a simple assignment for us to get to know your coding skills and style better:)
+This is a simple assignment for us to get to know your coding skills and style better :)
 
 In this assignment, you are asked to
 
